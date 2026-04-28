@@ -1,6 +1,7 @@
 """
 Minimal setup.py for backward compatibility.
 The actual configuration is in pyproject.toml
+This provides tool for setup
 """
 
 from setuptools import setup
