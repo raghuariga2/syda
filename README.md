@@ -605,7 +605,7 @@ Availability: In Stock
 
 
 ### 4. Need custom business logic? Add custom generators!
-
+## Why Developers Love Syda
 For advanced scenarios requiring **custom calculations** or **complex business rules**, you can add custom generator functions:
 
 <details>
