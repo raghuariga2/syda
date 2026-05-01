@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/syda-ai/syda.svg)](https://github.com/syda-ai/syda/stargazers)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17345575.svg)](https://doi.org/10.5281/zenodo.17345575)
 
-
+SYDA
 > **Generate high-quality synthetic data with AI while preserving referential integrity**
 
 SYDA seamlessly generates realistic synthetic test
